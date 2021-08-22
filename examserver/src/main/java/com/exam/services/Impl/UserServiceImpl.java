@@ -1,0 +1,64 @@
+package com.exam.services.Impl;
+
+import java.util.Optional;
+import java.util.Set;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.exam.entitiy.User;
+import com.exam.entitiy.UserRole;
+import com.exam.helper.UserFoundException;
+import com.exam.repo.RoleRepository;
+import com.exam.repo.UserRepository;
+import com.exam.services.UserService;
+
+@Service
+public class UserServiceImpl implements UserService {
+
+	@Autowired
+	private UserRepository userRepository;
+	@Autowired
+	private RoleRepository roleRepository;
+	
+	//creating user
+	
+	@Override
+	public User createUser(User user, Set<UserRole> userRoles) throws Exception {
+		User local = this.userRepository.findByusername(user.getUserName());
+		if( local != null)
+		{
+			System.out.println("User is already there !!");
+			throw new UserFoundException();
+		}else {
+		    //user create 
+			for(UserRole ur : userRoles) 
+			{
+				roleRepository.save(ur.getRole());
+			}
+			user.getUserRoles().addAll(userRoles);
+			local = this.userRepository.save(user);
+		}
+		
+       return local;    
+	}
+
+	//getting user by username
+	@Override
+	public User getUser(String username) {
+      
+		return this.userRepository.findByusername(username);
+	}
+	 //deleting the user by id
+	@Override
+	public void deleteUser(Long userId) {
+		 this.userRepository.deleteById(userId);
+	}
+	
+	//updating user by user id
+//	@Override
+//	public  User updateUser(Long userId) {
+//		return this.userRepository.findById(userId).get();
+//	}
+	
+}
