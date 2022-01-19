@@ -33,7 +33,7 @@ The UI has been elegantly designed with the best design practices in mind.
 
 The app was built with the latest and greatest technologies and it can offer a rich user interface that follows MVC layered architecture.
 
-The back-end consists of Angular and SpringBoot, while the front-end is powered by React.js
+The back-end consists of  SpringBoot, while the front-end is powered by Angular
 
 —
 
