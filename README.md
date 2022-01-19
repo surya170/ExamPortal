@@ -1,4 +1,7 @@
-# ExamPortal
+**#EXAM PORTAL
+ #JAVA FULL STACK WEB APPLICATION
+
+
 It was designed to offer flexibility and scalability in mind.
 
 It gives you the ability to create your own admin role, so that you can give clients access to only the data they need.
@@ -11,7 +14,7 @@ The admin panel is intuitive and efficient to work with.
 
 Uses angular and SpringBoot for fast, responsive user interfaces.
 
-Separate roles for admin to keep content secure.
+Separate roles for admin to keep content secure. we use Spring Security
 
 —
 
@@ -33,7 +36,7 @@ The UI has been elegantly designed with the best design practices in mind.
 
 The app was built with the latest and greatest technologies and it can offer a rich user interface that follows MVC layered architecture.
 
-The back-end consists of  SpringBoot, while the front-end is powered by Angular
+The back-end consists of Angular and SpringBoot, while the front-end is powered by React.js
 
 —
 
@@ -60,3 +63,19 @@ We use Mysql As Database to store It Was Full stack web applicaion
 Both Frontend and backend was built with the top most technologies
 
 and it Provides rich user interface
+
+—
+
+Developed with the latest technologies and frameworks, including Angular 7 and Spring Boot
+
+Supports both frontend and backend development, with a rich user interface to make your experience even better
+
+Uses the MySQL database to store your data securely
+
+—
+
+Scales to millions of pages without breaking a sweat.
+
+Elasticsearch for lightning-fast search.
+
+Supports mobile versions of your site with no additional development.
