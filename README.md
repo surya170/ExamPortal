@@ -23,3 +23,28 @@ This project provides a comprehensive tutorial series covering the entire develo
 1. Navigate to the `angular-app` directory:
    ```bash
    cd angular-app
+Start the Angular application:
+ng serve
+The app will be available at **http://localhost:4200/**
+### Backend Application
+1. Go to src Folder in that go for main SpringBootApplicationStarter class and  run main method as SpringBoot app
+2. The backend will be available at http://localhost:4200/.
+
+🚦Project Status
+The ExamPortal project is actively maintained, and we welcome contributions from the community. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+📋 Project Structure
+Here's a brief overview of the project structure:
+
+angular-app: Contains the Angular frontend code.
+backend-app: Houses the Spring Boot backend code.
+docs: Documentation files, including software requirements and project flow.
+🤝 Contributing
+We welcome contributions! If you'd like to contribute to the ExamPortal project, please follow the guidelines outlined in the CONTRIBUTING.md file.
+
+
+Feel free to explore the code and use this project as a valuable learning resource. If you have any questions or suggestions, please open an issue or contribute to the project.
+
+Happy coding! 👨‍💻👩‍💻
+
+vbnet
