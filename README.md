@@ -30,10 +30,12 @@ The app will be available at **http://localhost:4200/**
 1. Go to src Folder in that go for main SpringBootApplicationStarter class and  run main method as SpringBoot app
 2. The backend will be available at **http://localhost:9898/**.
 
-🚦Project Status
+🚦**Project Status**
+
 The ExamPortal project is actively maintained, and we welcome contributions from the community. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-📋 Project Structure
+📋 **Project Structure** 
+
 Here's a brief overview of the project structure:
 
 angular-app: Contains the Angular frontend code.
