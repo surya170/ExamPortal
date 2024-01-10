@@ -4,6 +4,24 @@ Welcome to the ExamPortal project! 🚀 This repository contains the source code
 
 ## Project Overview
 This project provides a comprehensive tutorial series covering the entire development process.
+**SCREENSHOTS**
+
+![Welcome Page](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(21).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(22).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(23).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(24).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(25).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(26).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(27).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(28).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(29).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(30).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(31).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(32).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(33).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(34).png)
+![Admin Pages](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(35).png)
+
 
 ## Project Demo and Software Requirements
 - Software requirements are detailed in the project documentation 📄.
@@ -48,8 +66,4 @@ We welcome contributions! If you'd like to contribute to the ExamPortal project,
 Feel free to explore the code and use this project as a valuable learning resource. If you have any questions or suggestions, please open an issue or contribute to the project.
 
 Happy coding! 👨‍💻👩‍💻
-
-**SCREENSHOTS**
-
-![Welcome Page](https://github.com/surya170/ExamPortal/blob/main/Assets/Screenshot%20(21).png)
 
